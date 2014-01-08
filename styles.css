@@ -1,0 +1,12 @@
+<style>
+	h1 { color: red; font-family: 'Arial'}
+	span { color:blue; }
+	/* use period to affect class */
+	.important { color: orange;}
+	/* use '#' to affect id */
+	#somewhat { color: green;}
+
+	div {background: purple;}
+
+	.lastparagraphs {background: orange;}
+</style>
